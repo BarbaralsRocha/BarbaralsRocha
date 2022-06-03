@@ -14,7 +14,10 @@
   <img align="center" alt="Barbara-Redux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Barbara-jest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="Barbara-sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Barbara-docker" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />    </div>
+  <img align="center" alt="Barbara-docker" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
+  <img align="center" alt="Barbara-docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    
+</div>
   <hr/>
  <div align="center"> 
   <a href = "mailto:barbaraluizasr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
