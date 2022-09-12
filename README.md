@@ -1,6 +1,6 @@
 ### Hi everyone!! 👋
 
-<p>I'm Bárbara Rocha, currently living in Belo Horizonte, graduate in Mechanical Engineer and doing transition carrer to development at Trybe school.</p>
+<p>I'm Bárbara Rocha, currently living in Belo Horizonte, graduate in Mechanical Engineer and now i'm softare enginner backend at Xp Inc</p>
 
 <p> Feel free to ask me anything, will be a pleasure answer. </p>
 
